@@ -1,4 +1,4 @@
-# Tami-und-der-Schattenkoenig
+# Tami und der Schattenkönig
 Ein episches Rollenspiel für den Tiptoi
 
 
