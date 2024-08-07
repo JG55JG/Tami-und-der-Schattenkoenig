@@ -5,8 +5,8 @@ Das Ziel bei der Spielentwicklung war, das der Tiptoi durch Soundeffekte und die
 
 - [Hintergrundgeschichte](#Hintergrundgeschichte)
 - [Tag und Nacht](#Tag-und-Nacht)
-
-
+- [Zufallsbegnungen](#Zufallsbegnungen)
+- [Kampfsystem](#Kampfsystem)
 
 
 # Das Spiel
@@ -17,15 +17,24 @@ Finde im ersten Kapitel des Spieles heraus was es mit den Schatten auf sich hat 
 ## Tag und Nacht
 Es gibt einen Tag/Nacht Zyklus in dem Spiel. Nach jeweils 12 Stunden wechselt die Tageszeit. Anfangs ist Tami noch nicht erfahren genug und zu schwach um sich in der Nacht ausserhalb des Hauses aufzuhalten. Später wirst du feststellen das in der Nacht vieles anders ist (du könntest schwören, dass der Brunnen am Tag noch völlig intakt war). Manche Ereignisse finden nur zu bestimmenten Uhrzeiten statt und manche Orte lassen sich nur zu bestimmten Tageszeiten erreichen. 
 
+## Zufallsbegnungen
+Wenn du durch das Tal streifst kommt es oft zu zufälligen Begnungen
+
+## Kampfsystem 
+Ggegner hat Initiative
+---------------
+ccc
+---------------
 ## Das Userinterface
+
 suchen, sprechen, essen, benutzen
 
 
-## Zufallsbegnungen
+
 
 ## Gegner
 Baukasten aus Eigenschaften, Spezialfertigkeiten und Belohnungen
-## Kampfsystem 
+
 
 ## Meditieren und das Levelsystem
 
@@ -40,3 +49,7 @@ Barieren
 ## Portale und Teleportzauber
 
 ## Laden und Speichern
+
+## Schlafen
+
+## Level up
