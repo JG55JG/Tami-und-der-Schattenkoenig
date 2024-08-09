@@ -18,10 +18,12 @@ Finde im ersten Kapitel des Spieles heraus was es mit den Schatten auf sich hat 
 Es gibt einen Tag/Nacht Zyklus in dem Spiel. Nach jeweils 12 Stunden wechselt die Tageszeit. Anfangs ist Tami noch nicht erfahren genug und zu schwach um sich in der Nacht ausserhalb des Hauses aufzuhalten. Später wirst du feststellen das in der Nacht vieles anders ist (du könntest schwören, dass der Brunnen am Tag noch völlig intakt war). Manche Ereignisse finden nur zu bestimmenten Uhrzeiten statt und manche Orte lassen sich nur zu bestimmten Tageszeiten erreichen. 
 
 ## Zufallsbegnungen
-Wenn du durch das Tal streifst kommt es oft zu zufälligen Begnungen
+Wenn du durch das Tal streifst kommt es oft zu zufälligen Begnungen oder du entdeckst Orte die dir vorher noch nicht aufgefallen sind. 
 
 ## Kampfsystem 
-Ggegner hat Initiative
+Wenn es 
+
+
 ---------------
 ccc
 ---------------
