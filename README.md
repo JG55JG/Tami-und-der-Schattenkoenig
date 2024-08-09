@@ -22,7 +22,11 @@ Wenn du durch das Tal streifst kommt es oft zu zufälligen Begnungen oder du ent
 
 ## Kampfsystem 
 Wenn es 
-
+<p align="left">
+  <img src="https://github.com/JG55JG/Tami_un_der_Schattenkoenig/blob/main/bilder/kampf.png"/ width="35%" >
+</p>
+<sub>Abbildung 2: Dungeon 1
+</sub>
 
 ---------------
 ccc
