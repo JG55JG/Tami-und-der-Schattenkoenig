@@ -37,6 +37,16 @@ suchen, sprechen, essen, benutzen
 
 ## Tagebuch, Zauberbuch, Kampftechnik-Buch
 
+Manchmal ist Tami nicht ganz bei der Sache, überhört eine wichtige Information oder vergisst wie genau dieser eine Zauber funktioniert hat. Aber kein Problem wichtige Dialoge und Ereignisse
+werden automatisch im Tgaebuch festgehalten und können später nachgehört werden. 
+
+
+
+<p align="left">
+  <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/github/erinnerung.png"/ width="35%" >
+</p>
+<sub>Abbildung 2: Dungeon 1
+</sub>
 
 
 ## Gegner
