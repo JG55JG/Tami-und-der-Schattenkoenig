@@ -38,7 +38,7 @@ suchen, sprechen, essen, benutzen
 ## Tagebuch, Zauberbuch, Kampftechnik-Buch
 
 Manchmal ist Tami nicht ganz bei der Sache, überhört eine wichtige Information oder vergisst wie genau dieser eine Zauber funktioniert hat. Aber kein Problem wichtige Dialoge und Ereignisse
-werden automatisch im Tgaebuch festgehalten und können später nachgehört werden. 
+werden automatisch im Tgaebuch festgehalten und können später nachgehört werden. Tippe auf das Tagebuch um den letzten Eintrag nachzuhören, über die Pfeile kannst du zu älteren eintragen und zurück zu neueren Einträgen navigieren.
 
 
 
@@ -48,6 +48,9 @@ werden automatisch im Tgaebuch festgehalten und können später nachgehört werd
 <sub>Abbildung 2: Dungeon 1
 </sub>
 
+## Spielstand speichern und Spielstand laden
+
+Die Spielzeit der Hauptquest ist (geschätzt) mindestens 5 Stunden. Das ist zu lang für eine einzige Tiptoi Spielsession, darum ist es wichtig den Spielstand speichern zu können. Tippt man auf den 'Speichern' Button wird eine Zahlenreihe angesagt, die man aufschreiben muß. Der komplette Spielfortschritt, inklusive aller gefunden Gegenstände, erlernten zauber u.s.w. ist in der leider sehr langen Reihe (bis zu xx Zeichen) kodiert. Tippt man auf den 'Laden' Button kann man einen Speichercode eingeben. Die ganze Prozedur ist leider etwas mühsam aber wahrscheinlich die einzige Möglichkeit zum Speichern mit dem Tiptoi.  
 
 ## Gegner
 Baukasten aus Eigenschaften, Spezialfertigkeiten und Belohnungen
