@@ -24,14 +24,14 @@ Wenn du durch das Tal streifst kommt es oft zu zufälligen Begnungen oder du ent
 
 ## Kampfsystem 
 
-<p align="left">
-  <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/github/erinnerung.png"/ width="15%" >
+<p align="middle">
+  <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/github/kampf.png" width="25%" />
+  <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/github/code_panel.png" width="22.5%" /> 
 </p>
-<sub> Kapmpf-Panel
-</sub>
-
-
-
+<p align="center">
+  <sub> (links) Kampfpanel  (rechts) Zauber + Spezialattacken + Codepanel
+  </sub>
+</p>
 
 ### Nahkampf
 Der Nahkampf findet in Echtzeit statt, man muss schnell reagieren und trotzdem die richtige Taktik für bestimmte Gegner finden. Ist der Gegner im Angriff, wird die Richtung des Angriffs angesagt (z.B. 'unten'). Tami kann mit einer entgegengesetzten Bewegung ausweichen ('oben') oder in der gleichen Richtung parieren ('unten'). Bewegt sich Tami in eine der anderen Richtungen (z.b. 'links') oder wartet zu lange mit der Reaktion (> 2Sekunden), trifft der Gegner automatisch. Ausweichen hat den Vorteil, dass die Trefferwahrscheinlichkeit durch den Gegner sehr viel kleiner ist als bei einer Parade. Allerdings bleibt der Gegner beim ausweichen in der Initiative und kann weiter angreifen. Mit einer kleinen Wahrscheinlichkeit kann der Gegner bei einer Ausweichaktion von Tami straucheln (25%). 
