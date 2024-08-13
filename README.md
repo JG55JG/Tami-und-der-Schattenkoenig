@@ -25,11 +25,31 @@ Wenn du durch das Tal streifst kommt es oft zu zufälligen Begnungen oder du ent
 ## Kampfsystem 
 ### Nahkampf
 Der Nahkampf findet in Echtzeit statt, man muss schnell reagieren und trotzdem die richtige Taktik für bestimmte Gegner finden. Ist der Gegner im Angriff, wird die Richtung des Angriffs angesagt (z.B. 'unten'). Tami kann mit einer entgegengesetzten Bewegung ausweichen ('oben') oder in der gleichen Richtung parieren ('unten'). Bewegt sich Tami in eine der anderen Richtungen (z.b. 'links') oder wartet zu lange mit der Reaktion (> 2Sekunden), trifft der Gegner automatisch. Ausweichen hat den Vorteil, dass die Trefferwahrscheinlichkeit durch den Gegner sehr viel kleiner ist als bei einer Parade. Allerdings bleibt der Gegner beim ausweichen in der Initiative und kann weiter angreifen. Mit einer kleinen Wahrscheinlichkeit kann der Gegner bei einer Ausweichaktion von Tami straucheln (25%). 
-Ist Tami im Angriff 
+Tami erkennt im Angriff die beste Angriffsrichtung (z.B. 'rechts') oder bei stärkeren Gegnern nur Zone in der die beste Angriffsrichtung liegt (z.B. 'rechts-oben', inkludiert: rechts, oben und springen). Wartet man zu lange oder tippt auf die falsche Richtung wechselt die Initiative zum Gegner. Die Treffer- und Parade-Ergebnisse werden vom Tiptoi basierend auf den Geschick/Stärke Werten von Tami und dem Gegner ausgewürfelt. Ist der Geschick/Stärke-Wert des Gegners größer, hat der Gegner am Anfang des Kampfes die initiative, ansonsten Tami. 
+
+```
+Initiative des Gegners:
+
+Parade Tami:
+
+
+```
+
+
+
+
+
+
+
+
+
+| Italic             |  Block letters |
+:-------------------------:|:-------------------------:
+| Parade: chtung: Das tttool ist kein offizielles Produkt von Ravensburger, sondern von unabhängigen Bastlern entwickelt. Wenn es zu einem Defekt am Tiptoi-Stift kommt, dann ist das zwar Pech, aber dennoch auf eigenes Risiko geschehen. Und wer se | ![](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/github/kampf.png) |
 
 Die Nutzung oder das Anwenden von Gegenständen, Essen und Tränken auf Tami und den Gegner ist während des Kampfes möglich.
 
-<p align="left">
+<p align="right">
   <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/github/kampf.png"/ width="35%" >
 </p>
 <sub>Abbildung 2: Dungeon 1
