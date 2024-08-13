@@ -46,8 +46,6 @@ Dieser Wer bestimmt ob eine Parade, ein Ausweichen oder eine Attacke erfolgreich
 Kampf-Vergleichswert = (W(Waffenwert) + Geschick/Kraft-Wert) * Modifikator
 ```
 
-Modifikator für Tami
-
 | Aktion            |  Modifikator | Bemerkung |
 :-------------------------:|:-------------------------:|:-------------------------:
 | Defensiv - Parade (gleiche Richtung) | x 1.2 | |
@@ -58,9 +56,14 @@ Modifikator für Tami
 | Offensiv - Fehlschlag | | direkter Initiativewechsel zum Gegner |
 | Offensiv - zu langsam | | direkter Initiativewechsel zum Gegner |
 
+**Waffen**
 
+| Waffe           |  Würfel für Kampf-Vergleichswert | Schaden |
+:-------------------------:|:-------------------------:|:-------------------------:
+| Holzschwert | W6 | 2 + Stärkewert/2 |
+| Magisches Schwert | W8 | 3 + Stärkewert/2 |
 
-
+### Fernkampf
 
 
 
