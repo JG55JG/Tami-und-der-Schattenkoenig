@@ -1,5 +1,5 @@
 # Tami und der Schattenkönig
-Tami und der Schattenkönig ist ein episches Rollenspiel für den Tiptoi. Es handelt sich um ein Custom/Fan-Projekt auf Basis des grandiosen [tttools](https://tttool.entropia.de/) ([tip-toi-reveng](https://github.com/entropia/tip-toi-reveng)). Das Spiel kombiniert (hoffentlich) ein echtes Rollenspiel-Erlebnis, wie man es aus Computerspielen kennt, mit der eher analogen und bildschirmfreien Tiptoi-Spielmechanik. Das Geschlecht von Tami ist nicht festgelegt, so dass sich Mädchen und Jungen gleichermaßen mit Tami identifizieren können. Du wirst erfahrener und lernst wie du deine Fähigkeiten verbesseren kannst. Irgendwann kannst du sogar deine eigene Burg mit eigener Schmiede errichten.
+Tami und der Schattenkönig ist ein Rollenspiel für den Tiptoi. Es handelt sich um ein Custom/Fan-Projekt auf Basis des grandiosen [tttools](https://tttool.entropia.de/) ([tip-toi-reveng](https://github.com/entropia/tip-toi-reveng)). Das Spiel kombiniert (hoffentlich) ein echtes Rollenspiel-Erlebnis, wie man es aus Computerspielen kennt, mit der eher analogen und bildschirmfreien Tiptoi-Spielmechanik. Das Geschlecht von Tami ist nicht festgelegt, so dass sich Mädchen und Jungen gleichermaßen mit Tami identifizieren können. Du wirst erfahrener und lernst wie du deine Fähigkeiten verbesseren kannst. Irgendwann kannst du sogar deine eigene Burg mit eigener Schmiede errichten.
 Tami erlebt eine spannende Geschichte, löst dabei Rätsel und erlernt mächtige Zauber, Spezialattacken und Rezepte. Tami besiegt Gegner und erkundet gescriptete und zufällig generierte Rogue-like Dungeons.
 Das Ziel bei der Spielentwicklung war, das der Tiptoi durch Soundeffekte und die Art der Eingabe fast wirklich zu einem Zauberstab, einem Schwert oder zu einer Angel wird. Neben Stärke- und Geschickwerten sollen aber auch Reaktionsschnelle und die richtigen taktischen Entscheidungen wichtig sein. Es handelt sich noch um eine Alpha-Version mit einigen bekannten Bugs und sicherlich ziemlich vielen noch nicht bekannten Bugs, sowie einem noch nicht optimalen Stärke Balancing. Ein Gameplay Video mit den wichtigsten Features gibt es hier. 
 
@@ -25,10 +25,32 @@ Wenn du durch das Tal streifst kommt es oft zu zufälligen Begnungen oder du ent
 ## Kampfsystem 
 ### Nahkampf
 Der Nahkampf findet in Echtzeit statt, man muss schnell reagieren und trotzdem die richtige Taktik für bestimmte Gegner finden. Ist der Gegner im Angriff, wird die Richtung des Angriffs angesagt (z.B. 'unten'). Tami kann mit einer entgegengesetzten Bewegung ausweichen ('oben') oder in der gleichen Richtung parieren ('unten'). Bewegt sich Tami in eine der anderen Richtungen (z.b. 'links') oder wartet zu lange mit der Reaktion (> 2Sekunden), trifft der Gegner automatisch. Ausweichen hat den Vorteil, dass die Trefferwahrscheinlichkeit durch den Gegner sehr viel kleiner ist als bei einer Parade. Allerdings bleibt der Gegner beim ausweichen in der Initiative und kann weiter angreifen. Mit einer kleinen Wahrscheinlichkeit kann der Gegner bei einer Ausweichaktion von Tami straucheln (25%). 
-Tami erkennt im Angriff die beste Angriffsrichtung (z.B. 'rechts') oder bei stärkeren Gegnern nur Zone in der die beste Angriffsrichtung liegt (z.B. 'rechts-oben', inkludiert: rechts, oben und springen). Wartet man zu lange oder tippt auf die falsche Richtung wechselt die Initiative zum Gegner. Die Treffer- und Parade-Ergebnisse werden vom Tiptoi basierend auf den Geschick/Stärke Werten von Tami und dem Gegner ausgewürfelt. Ist der Geschick/Stärke-Wert des Gegners größer, hat der Gegner am Anfang des Kampfes die initiative, ansonsten Tami. 
+Tami erkennt im Angriff die beste Angriffsrichtung (z.B. 'rechts') oder bei stärkeren Gegnern nur Zone in der die beste Angriffsrichtung liegt (z.B. 'rechts-oben', inkludiert: rechts, oben und springen). Wartet man zu lange oder tippt auf die falsche Richtung wechselt die Initiative zum Gegner. Die Treffer- und Parade-Ergebnisse werden vom Tiptoi basierend auf den Geschick/Stärke Werten von Tami und dem Gegner ausgewürfelt. Ist der Geschick/Stärke-Wert des Gegners größer, hat der Gegner am Anfang des Kampfes die Initiative, ansonsten Tami. 
 
+**Initiative**
+Ist der Geschick/Stärke-Wert des Gegners größer, hat der Gegner am Anfang des Kampfes die Initiative, ansonsten Tami. 
+
+**Kampf-Vergleichswert**
+Dieser Wer bestimmt ob eine Parade, ein Ausweichen oder eine Attacke erfolgreich ist. Der Wert wird für jede Aktion neu bestimmt und besteht 1) aus einer zufälligen Komponente, die abhängig von der verwendeten Waffe ausgewürfelt wird, 2) dem Geschick/Kraft-Wert von Tami und dem Gegner und 3) einem Modifikator der abhängig davon ist ob Tami in die richtige Richtung getippt hat. Ist der Kampf-Vergleichswert von Tami größer oder gleich dem Wert des Gegners, gewinnt Tami.
 ```
-Initiative des Gegners:
+Kampf-Vergleichswert = (W(Waffenwert) + Geschick/Kraft-Wert) * Modifikator
+```
+
+**Modifikator für Tami**
+
+| Aktion            |  Modifikator | Bemerkung |
+:-------------------------:|:-------------------------:|:-------------------------:
+| Defensiv - Parade (gleiche Richtung) | x 1.2 | |
+| Defensiv - vorbei (vorbeigetippt) | x 0.4 | |
+| Defensiv - Ausweichen (entgegengesetzt) | x 4.0 | bei Gewinn nur in 25% Initiativewchsel <br> (Straucheln des Gegners) |
+| Offensiv - Perfekter Treffer | x 1.2 | |
+| Offensiv - Trefferzone | x 1.0 | |
+| Offensiv - Fehlschlag | | direkter Initiativewechsel zum Gegner |
+| Offensiv - zu langsam | | direkter Initiativewechsel zum Gegner |
+
+**Initiative des Gegners - Tami verteidigt**
+```
+
 
 Parade Tami:
 
