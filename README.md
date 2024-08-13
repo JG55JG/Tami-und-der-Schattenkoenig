@@ -37,10 +37,10 @@ Wenn du durch das Tal streifst kommt es oft zu zufälligen Begnungen oder du ent
 Der Nahkampf findet in Echtzeit statt, man muss schnell reagieren und trotzdem die richtige Taktik für bestimmte Gegner finden. Ist der Gegner im Angriff, wird die Richtung des Angriffs angesagt (z.B. 'unten'). Tami kann mit einer entgegengesetzten Bewegung ausweichen ('oben') oder in der gleichen Richtung parieren ('unten'). Bewegt sich Tami in eine der anderen Richtungen (z.b. 'links') oder wartet zu lange mit der Reaktion (> 2Sekunden), trifft der Gegner automatisch. Ausweichen hat den Vorteil, dass die Trefferwahrscheinlichkeit durch den Gegner sehr viel kleiner ist als bei einer Parade. Allerdings bleibt der Gegner beim ausweichen in der Initiative und kann weiter angreifen. Mit einer kleinen Wahrscheinlichkeit kann der Gegner bei einer Ausweichaktion von Tami straucheln (25%). 
 Tami erkennt im Angriff die beste Angriffsrichtung (z.B. 'rechts') oder bei stärkeren Gegnern nur Zone in der die beste Angriffsrichtung liegt (z.B. 'rechts-oben', inkludiert: rechts, oben und springen). Wartet man zu lange oder tippt auf die falsche Richtung wechselt die Initiative zum Gegner. Die Treffer- und Parade-Ergebnisse werden vom Tiptoi basierend auf den Geschick/Stärke Werten von Tami und dem Gegner ausgewürfelt.
 
-**Initiative**
+**Initiative:**
 Ist der Geschick/Stärke-Wert des Gegners größer, hat der Gegner am Anfang des Kampfes die Initiative, ansonsten Tami. 
 
-**Kampf-Vergleichswert**
+**Kampf-Vergleichswert:**
 Dieser Wer bestimmt ob eine Parade, ein Ausweichen oder eine Attacke erfolgreich ist. Der Wert wird für jede Aktion neu bestimmt und besteht 1) aus einer zufälligen Komponente, die abhängig von der verwendeten Waffe ausgewürfelt wird, 2) dem Geschick/Kraft-Wert von Tami und dem Gegner und 3) einem Modifikator der abhängig davon ist ob Tami in die richtige Richtung getippt hat. Ist der Kampf-Vergleichswert von Tami größer oder gleich dem Wert des Gegners, gewinnt Tami.
 ```
 Kampf-Vergleichswert = (W(Waffenwert) + Geschick/Kraft-Wert) * Modifikator
@@ -58,7 +58,6 @@ Modifikator für Tami
 | Offensiv - Fehlschlag | | direkter Initiativewechsel zum Gegner |
 | Offensiv - zu langsam | | direkter Initiativewechsel zum Gegner |
 
-**Initiative des Gegners - Tami verteidigt**
 
 
 
@@ -66,24 +65,6 @@ Modifikator für Tami
 
 
 
-
-
-
-| Italic             |  Block letters |
-:-------------------------:|:-------------------------:
-| Parade: chtung: Das tttool ist kein offizielles Produkt von Ravensburger, sondern von unabhängigen Bastlern entwickelt. Wenn es zu einem Defekt am Tiptoi-Stift kommt, dann ist das zwar Pech, aber dennoch auf eigenes Risiko geschehen. Und wer se | ![](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/github/kampf.png) |
-
-Die Nutzung oder das Anwenden von Gegenständen, Essen und Tränken auf Tami und den Gegner ist während des Kampfes möglich.
-
-<p align="right">
-  <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/github/kampf.png"/ width="35%" >
-</p>
-<sub>Abbildung 2: Dungeon 1
-</sub>
-
----------------
-ccc
----------------
 ## Das Userinterface
 
 suchen, sprechen, essen, benutzen
