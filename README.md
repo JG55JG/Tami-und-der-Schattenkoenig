@@ -6,7 +6,14 @@ Das Ziel bei der Spielentwicklung war, das der Tiptoi durch Soundeffekte und die
 - [Hintergrundgeschichte](#Hintergrundgeschichte)
 - [Tag und Nacht](#Tag-und-Nacht)
 - [Zufallsbegnungen](#Zufallsbegnungen)
+- [Das Userinterface](#Das-Userinterface)
 - [Kampfsystem](#Kampfsystem)
+- [Gegner](#Gegner)
+- [Dungeons](#Dungeons)
+- [Das Tagebuchsystem](#Das-Tagebuchsystem)
+- [Items & Crafting](#Items-&-Crafting)
+- [Meditieren (Stufenaufstieg)](#Meditieren-(Stufenaufstieg))
+- [Schlafen](#Schlafen)
 
 
 # Das Spiel
@@ -64,6 +71,13 @@ Kampf-Vergleichswert = (W(Waffenwert) + Geschick/Kraft-Wert) * Modifikator
 | Magisches Schwert | W8 | 3 + Stärkewert/2 |
 
 ### Fernkampf
+<p align="middle">
+  <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/github/zielscheibe.png" width="25%" />
+</p>
+<p align="center">
+  <sub> Zielscheibe für Fernkampf, Angeln und weiteres
+  </sub>
+</p>
 
 
 
