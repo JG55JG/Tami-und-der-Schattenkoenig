@@ -23,9 +23,19 @@ Es gibt einen Tag/Nacht Zyklus. Nach jeweils 12 Stunden wechselt die Tageszeit. 
 Wenn du durch das Tal streifst kommt es oft zu zufälligen Begnungen oder du entdeckst Orte die dir vorher noch nicht aufgefallen sind. Abhängig davon ob du dich im Wald der z.B. am Wasser aufhältst und ob es Tag oder Nacht ist gibt es monentan ~70 zufällige Ereignisse. Manchmal findest du einen Pilz oder ein Stück Stoff im Baum, manchmal entdeckst du eine Höhle zum erkunden oder du musst einem Steinschlag entkommen. Noch ein letzter Tip: Falls du in den Bergen bist, pass auf, dass du nicht von einem Troll entführt wirst.
 
 ## Kampfsystem 
+
+<p align="left">
+  <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/github/erinnerung.png"/ width="15%" >
+</p>
+<sub> Kapmpf-Panel
+</sub>
+
+
+
+
 ### Nahkampf
 Der Nahkampf findet in Echtzeit statt, man muss schnell reagieren und trotzdem die richtige Taktik für bestimmte Gegner finden. Ist der Gegner im Angriff, wird die Richtung des Angriffs angesagt (z.B. 'unten'). Tami kann mit einer entgegengesetzten Bewegung ausweichen ('oben') oder in der gleichen Richtung parieren ('unten'). Bewegt sich Tami in eine der anderen Richtungen (z.b. 'links') oder wartet zu lange mit der Reaktion (> 2Sekunden), trifft der Gegner automatisch. Ausweichen hat den Vorteil, dass die Trefferwahrscheinlichkeit durch den Gegner sehr viel kleiner ist als bei einer Parade. Allerdings bleibt der Gegner beim ausweichen in der Initiative und kann weiter angreifen. Mit einer kleinen Wahrscheinlichkeit kann der Gegner bei einer Ausweichaktion von Tami straucheln (25%). 
-Tami erkennt im Angriff die beste Angriffsrichtung (z.B. 'rechts') oder bei stärkeren Gegnern nur Zone in der die beste Angriffsrichtung liegt (z.B. 'rechts-oben', inkludiert: rechts, oben und springen). Wartet man zu lange oder tippt auf die falsche Richtung wechselt die Initiative zum Gegner. Die Treffer- und Parade-Ergebnisse werden vom Tiptoi basierend auf den Geschick/Stärke Werten von Tami und dem Gegner ausgewürfelt. Ist der Geschick/Stärke-Wert des Gegners größer, hat der Gegner am Anfang des Kampfes die Initiative, ansonsten Tami. 
+Tami erkennt im Angriff die beste Angriffsrichtung (z.B. 'rechts') oder bei stärkeren Gegnern nur Zone in der die beste Angriffsrichtung liegt (z.B. 'rechts-oben', inkludiert: rechts, oben und springen). Wartet man zu lange oder tippt auf die falsche Richtung wechselt die Initiative zum Gegner. Die Treffer- und Parade-Ergebnisse werden vom Tiptoi basierend auf den Geschick/Stärke Werten von Tami und dem Gegner ausgewürfelt.
 
 **Initiative**
 Ist der Geschick/Stärke-Wert des Gegners größer, hat der Gegner am Anfang des Kampfes die Initiative, ansonsten Tami. 
@@ -36,7 +46,7 @@ Dieser Wer bestimmt ob eine Parade, ein Ausweichen oder eine Attacke erfolgreich
 Kampf-Vergleichswert = (W(Waffenwert) + Geschick/Kraft-Wert) * Modifikator
 ```
 
-**Modifikator für Tami**
+Modifikator für Tami
 
 | Aktion            |  Modifikator | Bemerkung |
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -49,13 +59,7 @@ Kampf-Vergleichswert = (W(Waffenwert) + Geschick/Kraft-Wert) * Modifikator
 | Offensiv - zu langsam | | direkter Initiativewechsel zum Gegner |
 
 **Initiative des Gegners - Tami verteidigt**
-```
 
-
-Parade Tami:
-
-
-```
 
 
 
@@ -92,7 +96,7 @@ werden automatisch im Tgaebuch festgehalten und können später nachgehört werd
 
 
 <p align="left">
-  <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/github/erinnerung.png"/ width="35%" >
+  <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/github/erinnerung.png"/ width="15%" >
 </p>
 <sub>Abbildung 2: Dungeon 1
 </sub>
