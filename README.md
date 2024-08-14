@@ -32,8 +32,8 @@ Wenn du durch das Tal streifst kommt es oft zu zufälligen Begnungen oder du ent
 ## Kampfsystem 
 
 <p align="middle">
-  <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/github/kampf.png" width="25%" />
-  <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/github/code_panel.png" width="22.5%" /> 
+  <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/kampf.png" width="25%" />
+  <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/code_panel.png" width="22.5%" /> 
 </p>
 <p align="center">
   <sub> (links) Kampfpanel  (rechts) Zauber + Spezialattacken + Codepanel
@@ -74,7 +74,7 @@ Kampf-Vergleichswert = (W(Waffenwert) + Geschick/Kraft-Wert) * Modifikator
 Fernkampf ist nur auf dem Dungeonplan relevant. Für Fernkampf benötigt Tami einen Bogen + Pfeile oder einen Stein zum Werfen. Auch einige Gegner können auf Distanz angreifen. Fernkampf ist nur in direkter, nicht durch Mauern unterbrochener Sichtlinie möglich. Die maximale Distanz  und und der Gegner muss in 
 
 <p align="middle">
-  <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/github/zielscheibe.png" width="35%" />
+  <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/zielscheibe.png" width="35%" />
 </p>
 <p align="center">
   <sub> Zielscheibe für Fernkampf, Angeln und weiteres
@@ -82,7 +82,9 @@ Fernkampf ist nur auf dem Dungeonplan relevant. Für Fernkampf benötigt Tami ei
 </p>
 
 
-
+[![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon-up.png) nach oben](#Tami-und-der-Schattenkönig)
+<br /><br />
+<a name="instgithub" />
 
 ## Das Userinterface
 
@@ -96,7 +98,7 @@ werden automatisch im Tgaebuch festgehalten und können später nachgehört werd
 
 
 <p align="left">
-  <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/github/erinnerung.png"/ width="15%" >
+  <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/erinnerung.png"/ width="15%" >
 </p>
 <sub>Abbildung 2: Dungeon 1
 </sub>
