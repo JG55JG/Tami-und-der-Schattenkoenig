@@ -82,9 +82,8 @@ Fernkampf ist nur auf dem Dungeonplan relevant. Für Fernkampf benötigt Tami ei
 </p>
 
 
-[![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon-up.png) nach oben](#Tami-und-der-Schattenkönig)
-<br /><br />
-<a name="instgithub" />
+[![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
+
 
 ## Das Userinterface
 
@@ -95,7 +94,7 @@ suchen, sprechen, essen, benutzen
 Manchmal ist Tami nicht ganz bei der Sache, überhört eine wichtige Information oder vergisst wie genau dieser eine Zauber funktioniert hat. Aber kein Problem wichtige Dialoge und Ereignisse
 werden automatisch im Tgaebuch festgehalten und können später nachgehört werden. Tippe auf das Tagebuch um den letzten Eintrag nachzuhören, über die Pfeile kannst du zu älteren eintragen und zurück zu neueren Einträgen navigieren.
 
-
+[![up](doc/figures/icon-up.28.png) back to overview](#overview)
 
 <p align="left">
   <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/erinnerung.png"/ width="15%" >
