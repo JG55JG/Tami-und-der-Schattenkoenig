@@ -83,8 +83,8 @@ Fernkampf ist nur auf dem Dungeonplan relevant. Für Fernkampf benötigt Tami ei
 
 **Fernkampfangriff von einem Gegner**
 
-Macht dein Gegner einen Fernkampfangriff wird der Fernkampf-Vergleichswert des gegner ausgewürfelt und angesagt. Zur Verteidingung muß Tami auf den Würfel tippen. Danach wird Tamis Ferkampf-Verteidigungwert ausgewürfelt und
-es wird ausgewertet ob der gegner getroffen hat.
+Macht dein Gegner einen Fernkampfangriff wird der Fernkampf-Vergleichswert des Gegners ausgewürfelt und angesagt. Zur Verteidigung muß Tami auf den Würfel tippen. Danach wird Tamis Ferkampf-Verteidigungwert ausgewürfelt und
+es wird ausgewertet ob der Gegner getroffen hat.
 
 Fernkampf-Vergleichswert (Fern<sub>Gegner</sub>) = W(6) + Geschick/Kraft-Wert
 
@@ -94,7 +94,9 @@ Fern<sub>Gegner</sub> > Fern<sub><Tami</sub> :arrow_right: Gegner trifft
 
 Fern<sub>Gegner</sub> $$\leq$$ Fern<sub><Tami</sub> :arrow_right: Tami weicht aus
 
-
+**Fernkampfangriff von Tamir**
+Tippe auf den Bogen oder den Stein und dann auf den Gegner-Token. Danach wird die Angriffsrichtung auf der Zielscheibe in Grad und Meter angesagt. Tippe auf das richtige Feld (bei einem höheren Geschickwert werden ach Nachbarfelder akzeptiert).
+Falls du in der gegebenen Zeit gut gezielt hast, wird der Angriff ausgewürfelt. 
 
 
 [![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
