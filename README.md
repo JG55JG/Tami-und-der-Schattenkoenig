@@ -81,14 +81,19 @@ Fernkampf ist nur auf dem Dungeonplan relevant. Für Fernkampf benötigt Tami ei
   </sub>
 </p>
 
-** Fernkampf von Gegner **
-```
+**Fernkampfangriff von einem Gegner**
+
+Macht dein Gegner einen Fernkampfangriff wird der Fernkampf-Vergleichswert des gegner ausgewürfelt und angesagt. Zur Verteidingung muß Tami auf den Würfel tippen. Danach wird Tamis Ferkampf-Verteidigungwert ausgewürfelt und
+es wird ausgewertet ob der gegner getroffen hat.
+
 Fernkampf-Vergleichswert (Fern<sub>Gegner</sub>) = W(6) + Geschick/Kraft-Wert
+
 Ferkampf-Verteidigung Tami (Fern<sub>Tami</sub>) = W(6) + Geschick/Kraft-Wert
 
-Fern<sub>Gegner</sub> > Fern<sub><Tami</sub>   => Gegner trifft
-Fern<sub>Gegner</sub> $$\geq$$ Fern<sub><Tami</sub>   => Tami weicht aus
-```
+Fern<sub>Gegner</sub> > Fern<sub><Tami</sub> :arrow_right: Gegner trifft
+
+Fern<sub>Gegner</sub> $$\leq$$ Fern<sub><Tami</sub> :arrow_right: Tami weicht aus
+
 
 
 
