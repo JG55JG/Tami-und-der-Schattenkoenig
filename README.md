@@ -71,7 +71,7 @@ Kampf-Vergleichswert = (W(Waffenwert) + Geschick/Kraft-Wert) * Modifikator
 | Magisches Schwert | W8 | 3 + Stärkewert/2 |
 
 ### Fernkampf
-Fernkampf ist nur auf dem Dungeonplan relevant. Für Fernkampf benötigt Tami einen Bogen + Pfeile oder einen Stein zum Werfen. Auch einige Gegner können auf Distanz angreifen. Fernkampf ist nur in direkter, nicht durch Mauern unterbrochener Sichtlinie möglich. Die maximale Distanz  und und der Gegner muss in 
+Fernkampf ist nur auf dem Dungeonplan relevant. Für Fernkampf benötigt Tami einen Bogen + Pfeile oder einen Stein zum Werfen. Auch einige Gegner können auf Distanz angreifen. Fernkampf ist nur in direkter, nicht durch Mauern unterbrochener Sichtlinie möglich. Die maximale Distanz ist abhängig von dem Intelligenz-Wert.
 
 <p align="middle">
   <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/zielscheibe.png" width="35%" />
@@ -80,6 +80,16 @@ Fernkampf ist nur auf dem Dungeonplan relevant. Für Fernkampf benötigt Tami ei
   <sub> Zielscheibe für Fernkampf, Angeln und weiteres
   </sub>
 </p>
+
+** Fernkampf von Gegner **
+```
+Fernkampf-Vergleichswert (Fern<sub>Gegner</sub>) = W(6) + Geschick/Kraft-Wert
+Ferkampf-Verteidigung Tami (Fern<sub>Tami</sub>) = W(6) + Geschick/Kraft-Wert
+
+Fern<sub>Gegner</sub> > Fern<sub><Tami</sub>   => Gegner trifft
+Fern<sub>Gegner</sub> $$\geq$$ Fern<sub><Tami</sub>   => Tami weicht aus
+```
+
 
 
 [![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
