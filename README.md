@@ -123,6 +123,9 @@ werden automatisch im Tgaebuch festgehalten und können später nachgehört werd
 
 Die Spielzeit der Hauptquest ist (geschätzt) mindestens 5 Stunden. Das ist zu lang für eine einzige Tiptoi Spielsession, darum ist es wichtig den Spielstand speichern zu können. Tippt man auf den 'Speichern' Button wird eine Zahlenreihe angesagt, die man aufschreiben muß. Der komplette Spielfortschritt, inklusive aller gefunden Gegenstände, erlernten zauber u.s.w. ist in der leider sehr langen Reihe (bis zu xx Zeichen) kodiert. Tippt man auf den 'Laden' Button kann man einen Speichercode eingeben. Die ganze Prozedur ist leider etwas mühsam aber wahrscheinlich die einzige Möglichkeit zum Speichern mit dem Tiptoi.  
 
+[![Videoerklärung  Spielstand speichern und laden](https://img.youtube.com/vi/4S_qzQhA8Lo/0.jpg)](https://www.youtube.com/watch?v=4S_qzQhA8Lo)
+
+
 ## Gegner
 Baukasten aus Eigenschaften, Spezialfertigkeiten und Belohnungen
 
