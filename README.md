@@ -3,6 +3,8 @@ Tami und der Schattenkönig ist ein Rollenspiel für den Tiptoi. Es handelt sich
 Tami erlebt eine spannende Geschichte, löst dabei Rätsel und erlernt mächtige Zauber, Spezialattacken und Rezepte. Tami besiegt Gegner und erkundet gescriptete und zufällig generierte Rogue-like Dungeons.
 Das Ziel bei der Spielentwicklung war, das der Tiptoi durch Soundeffekte und die Art der Eingabe fast wirklich zu einem Zauberstab, einem Schwert oder zu einer Angel wird. Neben Stärke- und Geschickwerten sollen aber auch Reaktionsschnelle und die richtigen taktischen Entscheidungen wichtig sein. Es handelt sich noch um eine Alpha-Version mit einigen bekannten Bugs und sicherlich ziemlich vielen noch nicht bekannten Bugs, sowie einem noch nicht optimalen Stärke Balancing. Um einen Eindruck von dem Spiel zu geben sind hier Links zu einem kürzeren Teaser-Video und einem längerem Gameplay-Video. 
 
+&nbsp;
+
 <p align="middle">
     <a href="https://youtu.be/sRXvWUkbedM">
       <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FsRXvWUkbedM" alt="Teaser" title="Teaser"/>
@@ -13,9 +15,8 @@ Das Ziel bei der Spielentwicklung war, das der Tiptoi durch Soundeffekte und die
 </p>
 
 <p align="center">
-  <sub> <b>(links) Teaser   &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (rechts) Gameplay</b>
-  </sub>
-</p>
+  <b>  Teaser   &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Gameplay</b>
+ </p>
 
 
 - [Hintergrundgeschichte](#Hintergrundgeschichte)
