@@ -171,7 +171,7 @@ Mit der Zeit erlebt Tami immer neue Abenteuer, lernt und erhält Erfahrungspunkt
  [![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
 
 ## Dungeons
-In Tami und der Schattenkönig gibt es gescriptete Dungeons und nach gewissen Regeln zufällig generierte Dungeons, mit Fallen, Gegnern, Schätzen und Rätseln. Ein Dungeon jede beliebege Form auf dem 10 X 10 Dungeonplan einnehmen und aus bis zu 4 Räumen bestehen. Tami kann Barieren bauen, damit ihn seine Gegner nicht mehr verfolgen können oder mit Magie und Fernkampf kämpfen. Doch auch die Gegner können sich mit Fernkampf, Eis, Gift oder Feuerzaubern wehren. Später kann sich Tami inerhalb von Dungeons teleportieren. Neue Dungeons können leicht in einem Baukastensystem erstellt werden.
+In Tami und der Schattenkönig gibt es gescriptete Dungeons und nach gewissen Regeln zufällig generierte Dungeons, mit Fallen, Gegnern, Schätzen und Rätseln. Ein Dungeon kann jede beliebige Form auf dem 10 X 10 Dungeonplan einnehmen und aus bis zu 4 Räumen bestehen. Tami kann Barieren bauen, damit ihn seine Gegner nicht mehr verfolgen können oder mit Magie und Fernkampf kämpfen. Doch auch die Gegner können sich mit Fernkampf, Eis, Gift oder Feuerzaubern wehren. Später kann sich Tami inerhalb von Dungeons teleportieren. Neue Dungeons können leicht in einem Baukastensystem erstellt werden.
 
 <p align="middle">
   <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/dungeon.png" width="35%" />
