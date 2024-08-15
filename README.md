@@ -24,7 +24,7 @@ Das Ziel bei der Spielentwicklung war, das der Tiptoi durch Soundeffekte und die
 - [Zufallsbegnungen](#Zufallsbegnungen)
 - [Das Userinterface](#Das-Userinterface)
 - [Kampfsystem](#Kampfsystem)
-- [Tagebuch, Zauberbuch, Kampftechnik-Buch](#Tagebuch,-Zauberbuch,-Kampftechnik_Buch) 
+- [Tagebuch, Zauberbuch, Kampftechnik-Buch](#Tagebuch,-Zauberbuch,-Kampftechnikbuch) 
 - [Gegner](#Gegner)
 - [Dungeons](#Dungeons)
 - [Das Tagebuchsystem](#Das-Tagebuchsystem)
@@ -134,7 +134,7 @@ Falls du in der gegebenen Zeit gut gezielt hast, wird der Angriff wie oben ausge
 [![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
 
 
-## Tagebuch, Zauberbuch, Kampftechnik-Buch
+## Tagebuch, Zauberbuch, Kampftechnikbuch
 
 Manchmal ist Tami nicht ganz bei der Sache, überhört eine wichtige Information oder vergisst wie genau dieser eine Zauber funktioniert hat. Aber kein Problem wichtige Dialoge und Ereignisse
 werden automatisch im Tgaebuch festgehalten und können später nachgehört werden. Tippe auf das Tagebuch um den letzten Eintrag nachzuhören, über die Pfeile kannst du zu älteren eintragen und zurück zu neueren Einträgen navigieren.
