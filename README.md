@@ -25,14 +25,10 @@ Das Ziel bei der Spielentwicklung war, das der Tiptoi durch Soundeffekte und die
 - [Das Userinterface](#Das-Userinterface)
 - [Kampfsystem](#Kampfsystem)
 - [Tagebuch Zauberbuch Kampftechnikbuch](#Tagebuch-Zauberbuch-Kampftechnikbuch)
-- [Spielstand speichern und Spielstand laden](#Spielstand-speichern-und-Spielstand-laden)-  
+- [Spielstand speichern und Spielstand laden](#Spielstand-speichern-und-Spielstand-laden)  
 - [Meditieren (Stufenaufstieg)](#Meditieren-(Stufenaufstieg))
 - [Gegner](#Gegner)
 - [Dungeons](#Dungeons)
-- [Das Tagebuchsystem](#Das-Tagebuchsystem)
-- [Items & Crafting](#Items-&-Crafting)
-
-- [Schlafen](#Schlafen)
 
 
 # Das Spiel
@@ -160,12 +156,11 @@ Die Spielzeit der Hauptquest ist (geschätzt) mindestens 5 Stunden. Das ist zu l
 
 <p align="left" >    Videoerklärung Spielstand speichern und laden    </p>
     
- 
- 
+ [![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
+
+## Meditieren (Stufenaufstieg)
 
 
-
-[![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
 
 
 ## Gegner
