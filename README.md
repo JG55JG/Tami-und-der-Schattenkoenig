@@ -24,6 +24,7 @@ Das Ziel bei der Spielentwicklung war, das der Tiptoi durch Soundeffekte und die
 - [Zufallsbegnungen](#Zufallsbegnungen)
 - [Das Userinterface](#Das-Userinterface)
 - [Kampfsystem](#Kampfsystem)
+- [Tagebuch, Zauberbuch, Kampftechnik-Buch](#Tagebuch,-Zauberbuch,-Kampftechnik-Buch)-  
 - [Gegner](#Gegner)
 - [Dungeons](#Dungeons)
 - [Das Tagebuchsystem](#Das-Tagebuchsystem)
@@ -39,8 +40,16 @@ Nachfolgend kommt eine kleine, nicht volständige Beschreibung der wichtigsten S
 Du lebst mit deinen Eltern auf einem kleinen Bauernhof in einem fruchtbaren Tal. Es ist ein hartes aber glückliches Leben – während des Tages. Doch sobald die Sonne untergegangen ist erheben sich die Schatten, Geisterwesen schweben körperlos durch das Land und unterhalten sich wispernd in einer unbekannten Sprache. Zu dieser Zeit verstecken sich alle Menschen in ihren Häusern und schützen sich mit magischen Talismanen und Kräutern. Als wäre das noch nicht genug wuchs kurz vor deiner Geburt eine undurchdringliche Hecke um das Tal. Seit dieser Zeit hat kein Fremder mehr das Tal betreten und auch kein Bewohner des Tals dieses verlassen. Für dich ist das jedoch alles ganz normal, du kennst es ja nicht anders. Keiner kennt das Tal besser als du. 
 Finde im ersten Kapitel des Spieles heraus was es mit den Schatten auf sich hat und wie du durch die verwunschene Hecke aus dem Tal kommen kannst. Auch wenn du es noch nicht weißt, du bist die letzte Hoffnung deiner Welt.
 
+
+[![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
+
+
 ## Tag und Nacht
 Es gibt einen Tag/Nacht Zyklus. Nach jeweils 12 Stunden wechselt die Tageszeit. Anfangs ist Tami noch nicht erfahren genug und zu schwach um sich in der Nacht ausserhalb des Hauses aufzuhalten. Später wirst du feststellen das in der Nacht vieles anders ist (du könntest schwören, dass der Brunnen am Tag noch völlig intakt war). Manche Ereignisse finden nur zu bestimmenten Uhrzeiten statt und manche Orte lassen sich nur zu bestimmten Tageszeiten erreichen. 
+
+
+[![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
+
 
 ## Zufallsbegnungen
 Wenn du durch das Tal streifst kommt es oft zu zufälligen Begnungen oder du entdeckst Orte die dir vorher noch nicht aufgefallen sind. Abhängig davon ob du dich im Wald der z.B. am Wasser aufhältst und ob es Tag oder Nacht ist gibt es monentan ~70 zufällige Ereignisse. Manchmal findest du einen Pilz oder ein Stück Stoff im Baum, manchmal entdeckst du eine Höhle zum erkunden oder du musst einem Steinschlag entkommen. Noch ein letzter Tip: Falls du in den Bergen bist, pass auf, dass du nicht von einem Troll entführt wirst.
@@ -117,9 +126,9 @@ Fern<sub>Gegner</sub> > Fern<sub><Tami</sub> :arrow_right: Gegner trifft
 
 Fern<sub>Gegner</sub> $$\leq$$ Fern<sub><Tami</sub> :arrow_right: Tami weicht aus
 
-**Fernkampfangriff von Tamir**
-Tippe auf den Bogen oder den Stein und dann auf den Gegner-Token. Danach wird die Angriffsrichtung auf der Zielscheibe in Grad und Meter angesagt. Tippe auf das richtige Feld (bei einem höheren Geschickwert werden ach Nachbarfelder akzeptiert).
-Falls du in der gegebenen Zeit gut gezielt hast, wird der Angriff ausgewürfelt. 
+**Fernkampfangriff von Tami**
+Tippe auf den Bogen oder den Stein und dann auf den Gegner-Token. Danach wird die Angriffsrichtung auf der Zielscheibe in Grad und Meter angesagt. Tippe auf das richtige Feld (bei einem höheren Geschickwert werden auch Nachbarfelder akzeptiert).
+Falls du in der gegebenen Zeit gut gezielt hast, wird der Angriff wie oben ausgewürfelt. 
 
 
 [![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
