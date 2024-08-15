@@ -160,27 +160,20 @@ Die Spielzeit der Hauptquest ist (geschätzt) mindestens 5 Stunden. Das ist zu l
 
 ## Meditieren Stufenaufstieg
 
+Mit der Zeit erlebt Tami immer neue Abenteuer, lernt und erhält Erfahrungspunkte. Ab einer gewissen Stelle im Spiel erfährt Tami von dem Geheimnis der Meditation, das es ermöglicht die Erfharungspunkte für einen Stufenanstieg zu verwenden. Für jeden Stufe erhält Tami eine Punkt Lebensenergie mehr und einen Punkt der für die Verbesserung der geistigen oder der körperlichen Fähigkeiten verwendet werden kann.
 
+<a href="https://youtu.be/hpkKJMFcSH0">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FhpkKJMFcSH0" alt="Meditieren" title="Meditieren"/>
+</a>
 
+<p align="left" >    Videoerklärung Meditieren   </p>
+   
+ [![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
 
-## Gegner
-Baukasten aus Eigenschaften, Spezialfertigkeiten und Belohnungen
-
-
-## Meditieren und das Levelsystem
-
-## Höhlen Räume
+## Dungeons
 Scripted nach Baukastensystem oder zufällig generiert mit Gegnern, Schatzkisten und Fallen.
 Rouge-like (4 zufälllige Räume gleichzeitig, dann neue Ebene)
 Schatzkisten
 Barieren
-## Sümpfe
 
-## Zauber und Spezialattacken
-## Portale und Teleportzauber
-
-## Laden und Speichern
-
-## Schlafen
-
-## Level up und Einfluß von Werten
+ [![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
