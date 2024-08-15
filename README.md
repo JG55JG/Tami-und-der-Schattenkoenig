@@ -4,8 +4,8 @@ Tami erlebt eine spannende Geschichte, löst dabei Rätsel und erlernt mächtige
 Das Ziel bei der Spielentwicklung war, das der Tiptoi durch Soundeffekte und die Art der Eingabe fast wirklich zu einem Zauberstab, einem Schwert oder zu einer Angel wird. Neben Stärke- und Geschickwerten sollen aber auch Reaktionsschnelle und die richtigen taktischen Entscheidungen wichtig sein. Es handelt sich noch um eine Alpha-Version mit einigen bekannten Bugs und sicherlich ziemlich vielen noch nicht bekannten Bugs, sowie einem noch nicht optimalen Stärke Balancing. Ein Gameplay Video mit den wichtigsten Features gibt es hier. 
 
 <p align="middle">
-  [![Teaser](https://img.youtube.com/vi/sRXvWUkbedM/0.jpg)](https://www.youtube.com/watch?v=sRXvWUkbedM)
-  [![Videoerklärung  Spielstand speichern und laden](https://img.youtube.com/vi/4S_qzQhA8Lo/0.jpg)](https://www.youtube.com/watch?v=4S_qzQhA8Lo)
+  <[![Teaser](https://img.youtube.com/vi/sRXvWUkbedM/0.jpg)](https://www.youtube.com/watch?v=sRXvWUkbedM)/>
+  <[![Videoerklärung  Spielstand speichern und laden](https://img.youtube.com/vi/4S_qzQhA8Lo/0.jpg)](https://www.youtube.com/watch?v=4S_qzQhA8Lo)/>
 </p>
 
 <p align="middle">
