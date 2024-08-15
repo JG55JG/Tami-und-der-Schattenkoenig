@@ -29,6 +29,10 @@ Es gibt einen Tag/Nacht Zyklus. Nach jeweils 12 Stunden wechselt die Tageszeit. 
 ## Zufallsbegnungen
 Wenn du durch das Tal streifst kommt es oft zu zufälligen Begnungen oder du entdeckst Orte die dir vorher noch nicht aufgefallen sind. Abhängig davon ob du dich im Wald der z.B. am Wasser aufhältst und ob es Tag oder Nacht ist gibt es monentan ~70 zufällige Ereignisse. Manchmal findest du einen Pilz oder ein Stück Stoff im Baum, manchmal entdeckst du eine Höhle zum erkunden oder du musst einem Steinschlag entkommen. Noch ein letzter Tip: Falls du in den Bergen bist, pass auf, dass du nicht von einem Troll entführt wirst.
 
+[![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
+
+
+
 ## Kampfsystem 
 
 <p align="middle">
@@ -70,6 +74,9 @@ Kampf-Vergleichswert = (W(Waffenwert) + Geschick/Kraft-Wert) * Modifikator
 | Holzschwert | W6 | 2 + Stärkewert/2 |
 | Magisches Schwert | W8 | 3 + Stärkewert/2 |
 
+[![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
+
+
 ### Fernkampf
 Fernkampf ist nur auf dem Dungeonplan relevant. Für Fernkampf benötigt Tami einen Bogen + Pfeile oder einen Stein zum Werfen. Auch einige Gegner können auf Distanz angreifen. Fernkampf ist nur in direkter, nicht durch Mauern unterbrochener Sichtlinie möglich. Die maximale Distanz ist abhängig von dem Intelligenz-Wert.
 
@@ -102,22 +109,20 @@ Falls du in der gegebenen Zeit gut gezielt hast, wird der Angriff ausgewürfelt.
 [![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
 
 
-## Das Userinterface
-
-suchen, sprechen, essen, benutzen
-
 ## Tagebuch, Zauberbuch, Kampftechnik-Buch
 
 Manchmal ist Tami nicht ganz bei der Sache, überhört eine wichtige Information oder vergisst wie genau dieser eine Zauber funktioniert hat. Aber kein Problem wichtige Dialoge und Ereignisse
 werden automatisch im Tgaebuch festgehalten und können später nachgehört werden. Tippe auf das Tagebuch um den letzten Eintrag nachzuhören, über die Pfeile kannst du zu älteren eintragen und zurück zu neueren Einträgen navigieren.
 
-[![up](doc/figures/icon-up.28.png) back to overview](#overview)
 
 <p align="left">
-  <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/erinnerung.png"/ width="15%" >
+  <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/erinnerung.png"/ width="35%" >
 </p>
 <sub>Abbildung 2: Dungeon 1
 </sub>
+
+[![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
+
 
 ## Spielstand speichern und Spielstand laden
 
@@ -130,7 +135,8 @@ Die Spielzeit der Hauptquest ist (geschätzt) mindestens 5 Stunden. Das ist zu l
 </p>
 
 
-[![up](doc/figures/icon-up.28.png) back to overview](#overview)
+[![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
+
 
 ## Gegner
 Baukasten aus Eigenschaften, Spezialfertigkeiten und Belohnungen
