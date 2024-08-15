@@ -176,4 +176,13 @@ Rouge-like (4 zufälllige Räume gleichzeitig, dann neue Ebene)
 Schatzkisten
 Barieren
 
+<p align="middle">
+  <img src="https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/dungeon.png" width="35%" />
+</p>
+<p align="center">
+  <sub> Der Dungeonspielplan
+  </sub>
+</p>
+
+
  [![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
