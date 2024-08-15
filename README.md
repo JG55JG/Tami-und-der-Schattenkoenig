@@ -24,7 +24,7 @@ Das Ziel bei der Spielentwicklung war, das der Tiptoi durch Soundeffekte und die
 - [Zufallsbegnungen](#Zufallsbegnungen)
 - [Das Userinterface](#Das-Userinterface)
 - [Kampfsystem](#Kampfsystem)
-- [Tagebuch, Zauberbuch, Kampftechnik-Buch](#Tagebuch,-Zauberbuch,-Kampftechnik-Buch)-  
+- [Tagebuch, Zauberbuch, Kampftechnik-Buch](#Tagebuch,-Zauberbuch,-Kampftechnik-Buch) 
 - [Gegner](#Gegner)
 - [Dungeons](#Dungeons)
 - [Das Tagebuchsystem](#Das-Tagebuchsystem)
