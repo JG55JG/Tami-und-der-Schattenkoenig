@@ -26,7 +26,7 @@ Das Ziel bei der Spielentwicklung war, das der Tiptoi durch Soundeffekte und die
 - [Kampfsystem](#Kampfsystem)
 - [Tagebuch Zauberbuch Kampftechnikbuch](#Tagebuch-Zauberbuch-Kampftechnikbuch)
 - [Spielstand speichern und Spielstand laden](#Spielstand-speichern-und-Spielstand-laden)  
-- [Meditieren (Stufenaufstieg)](#Meditieren-\(Stufenaufstieg\))
+- [Meditieren (Stufenaufstieg)](#Meditieren-\\(Stufenaufstieg\\))
 - [Gegner](#Gegner)
 - [Dungeons](#Dungeons)
 
