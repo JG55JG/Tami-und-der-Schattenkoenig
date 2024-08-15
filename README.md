@@ -29,6 +29,7 @@ Das Ziel bei der Spielentwicklung war, das der Tiptoi durch Soundeffekte und die
 - [Meditieren Stufenaufstieg](#Meditieren-Stufenaufstieg)
 - [Gegner](#Gegner)
 - [Dungeons](#Dungeons)
+- [Die Sümpfe-Swampsweeper](#Die-Sümpfe)
 
 
 # Das Spiel
@@ -183,3 +184,11 @@ In Tami und der Schattenkönig gibt es gescriptete Dungeons und nach gewissen Re
 
 
  [![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
+
+
+## Die-Sümpfe
+
+An einigen Stellen kommt Tami freiwillig oder unfreiwillig in tückische Sümpfe und Moore. Um da herauszufinden muß man die tiefen Sumpflöcher umgehen, das Gameplay ist an Minesweeper angelehnt. Bei jedem 
+betreten des Sumpfes wird ein neuer Spielplan generiert. EIn Beispiel fundet sich im Gameplay Video nach 7 Minuten.
+
+[![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
