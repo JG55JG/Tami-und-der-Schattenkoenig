@@ -1,7 +1,59 @@
+
+#wrapper { 
+    width: 920px; 
+    height: auto; 
+    margin: 0 auto;
+} 
+#home1 { 
+    width: 47.5%; 
+    height: 300px; 
+    float: left; 
+    margin-right: 5%;
+} 
+
+#home2 { 
+    width: 47.5%; 
+    height: 300px; 
+    float: left; 
+}
+
+.clear{
+    clear: both;
+}
+
+@media (max-width:767px) {
+    #wrapper{
+        width: 100%;
+        height: auto;
+    }
+    #home1 {
+        width: 100%;
+        height: auto;
+        float: none;
+    }
+    #home2 {
+        width: 100%;
+        height: auto;
+        float: none;
+    }
+}
+
 # Tami und der Schattenkönig
 Tami und der Schattenkönig ist ein Rollenspiel für den Tiptoi. Es handelt sich um ein Custom/Fan-Projekt auf Basis des grandiosen [tttools](https://tttool.entropia.de/) ([tip-toi-reveng](https://github.com/entropia/tip-toi-reveng)). Das Spiel kombiniert (hoffentlich) ein echtes Rollenspiel-Erlebnis, wie man es aus Computerspielen kennt, mit der eher analogen und bildschirmfreien Tiptoi-Spielmechanik. Das Geschlecht von Tami ist nicht festgelegt, so dass sich Mädchen und Jungen gleichermaßen mit Tami identifizieren können. Du wirst erfahrener und lernst wie du deine Fähigkeiten verbesseren kannst. Irgendwann kannst du sogar deine eigene Burg mit eigener Schmiede errichten.
 Tami erlebt eine spannende Geschichte, löst dabei Rätsel und erlernt mächtige Zauber, Spezialattacken und Rezepte. Tami besiegt Gegner und erkundet gescriptete und zufällig generierte Rogue-like Dungeons.
 Das Ziel bei der Spielentwicklung war, das der Tiptoi durch Soundeffekte und die Art der Eingabe fast wirklich zu einem Zauberstab, einem Schwert oder zu einer Angel wird. Neben Stärke- und Geschickwerten sollen aber auch Reaktionsschnelle und die richtigen taktischen Entscheidungen wichtig sein. Es handelt sich noch um eine Alpha-Version mit einigen bekannten Bugs und sicherlich ziemlich vielen noch nicht bekannten Bugs, sowie einem noch nicht optimalen Stärke Balancing. Ein Gameplay Video mit den wichtigsten Features gibt es hier. 
+
+<div id="wrapper"> 
+    <video id="home1" width="400" height="300" poster="[images/video.jpg](https://img.youtube.com/vi/4S_qzQhA8Lo/0.jpg)" controls="controls" preload="none"> 
+        <source type="video/mp4" src="[images/stories/home1.mp4](https://www.youtube.com/watch?v=sRXvWUkbedM)" /> 
+    </video>
+     <video id="home2" width="400" height="300" poster="[images/video.jpg](https://img.youtube.com/vi/4S_qzQhA8Lo/0.jpg)" controls="controls" preload="none"> 
+        <source type="video/mp4" src="[images/stories/home1.mp4](https://www.youtube.com/watch?v=sRXvWUkbedM)" /> 
+    </video>
+    <div class="clear"></div> 
+</div>
+
+
 
 <p align="middle">
   <video src=https://www.youtube.com/watch?v=sRXvWUkbedM/>
