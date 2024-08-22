@@ -34,6 +34,7 @@ Das Ziel bei der Spielentwicklung war, das der Tiptoi durch Soundeffekte und die
 # Das Spiel
 Nachfolgend kommt eine kleine, nicht volständige Beschreibung der wichtigsten Spielfunktionen.
 
+
 ## Bugs
 Neben den tatsächlichen Bugs im Code kann es durch die beiden unten genannten Gründe zu Fehlfunktionen kommen. Zusätzlich gibt es noch einige Typos in der Srachausgabe.
 
