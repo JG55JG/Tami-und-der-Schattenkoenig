@@ -20,20 +20,33 @@ Das Ziel bei der Spielentwicklung war, das der Tiptoi durch Soundeffekte und die
 
 
 - [Hintergrundgeschichte](#Hintergrundgeschichte)
+- [Bugs](#Bugs)
 - [Tag und Nacht](#Tag-und-Nacht)
 - [Zufallsbegnungen](#Zufallsbegnungen)
-- [Das Userinterface](#Das-Userinterface)
 - [Kampfsystem](#Kampfsystem)
 - [Tagebuch Zauberbuch Kampftechnikbuch](#Tagebuch-Zauberbuch-Kampftechnikbuch)
 - [Spielstand speichern und Spielstand laden](#Spielstand-speichern-und-Spielstand-laden)  
 - [Meditieren Stufenaufstieg](#Meditieren-Stufenaufstieg)
-- [Gegner](#Gegner)
 - [Dungeons](#Dungeons)
 - [Die Sümpfe-Swampsweeper](#Die-Sümpfe)
 
 
 # Das Spiel
 Nachfolgend kommt eine kleine, nicht volständige Beschreibung der wichtigsten Spielfunktionen.
+
+## Bugs
+Neben den tatsächlichen Bugs im Code kann es durch die beiden unten genannten Gründe zu Fehlfunktionen kommen. Zusätzlich gibt es noch einige Typos in der Srachausgabe.
+
+1. Fehler durch schlechte Druckqualität: 
+Eine falsche OID wird erkannt. Wenn die OID zu einem im Spiel vorhandenen Script gehört, kann es zu einer unerwarteten Sprachausgabe führen. Falls die OID nicht vergeben ist kommt die Sprachausgabe: "Tippe zuerst auf das Anmeldezeichen, dann kann es losgehen". In seltenen
+Fällen kommt es dabei zu einem Absturz und das Spiel muss neu gestartet werden. 
+
+2. Tippen bevor ein bestimmter Ablauf fertig vom Stift abgearbeitet ist. Viele Abläufe im Spiel bestehen aus einer Abfolge von mit `J()` verketten Funktionen. Der Großteil der verketteten Funktionen (soweit bisher möglich) ist geschützt und es sollte nicht möglich sein sie durch tippen auf eine andere OID zu unterbrechen.
+Trotzdem kann das Problem ab und an auftretten. Am besten immer warten bis alle Sprachausgaben und Abläufe fertig sind.
+
+3. In einigen Fällen kommt es zum Abbruch von Funktionen ohne das die Variable zum "Schutz" von Funktionsketten zurückgesetzt wird. Dann kommt es beim Tippen auf die meisten OIDs zu keiner Reaktion mehr. In einem solchen Fall
+kann man auf die "10" unter dem "Laden" Feld tippen. Die Variablen werden dann zurückgesetzt und man kann weiterspielen.
+
 
 ## Hintergrundgeschichte
 Du lebst mit deinen Eltern auf einem kleinen Bauernhof in einem fruchtbaren Tal. Es ist ein hartes aber glückliches Leben – während des Tages. Doch sobald die Sonne untergegangen ist erheben sich die Schatten, Geisterwesen schweben körperlos durch das Land und unterhalten sich wispernd in einer unbekannten Sprache. Zu dieser Zeit verstecken sich alle Menschen in ihren Häusern und schützen sich mit magischen Talismanen und Kräutern. Als wäre das noch nicht genug wuchs kurz vor deiner Geburt eine undurchdringliche Hecke um das Tal. Seit dieser Zeit hat kein Fremder mehr das Tal betreten und auch kein Bewohner des Tals dieses verlassen. Für dich ist das jedoch alles ganz normal, du kennst es ja nicht anders. Keiner kennt das Tal besser als du. 
@@ -188,7 +201,7 @@ In Tami und der Schattenkönig gibt es gescriptete Dungeons und nach gewissen Re
 
 ## Die-Sümpfe
 
-An einigen Stellen kommt Tami freiwillig oder unfreiwillig in tückische Sümpfe und Moore. Um da herauszufinden muß man die tiefen Sumpflöcher umgehen, das Gameplay ist an Minesweeper angelehnt. Bei jedem 
-betreten des Sumpfes wird ein neuer Spielplan generiert. EIn Beispiel fundet sich im Gameplay Video nach 7 Minuten.
+An einigen Stellen kommt Tami freiwillig oder unfreiwillig in tückische Sümpfe und Moore. Um da herauszufinden muß man die tiefen Sumpflöcher umgehen. Das Gameplay ist an Minesweeper angelehnt. Bei jedem 
+Betreten des Sumpfes wird ein neuer Spielplan generiert. Ein Beispiel findet sich im Gameplay Video nach 7 Minuten.
 
 [![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
