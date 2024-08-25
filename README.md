@@ -116,8 +116,7 @@ graph TD;
 
 ```mermaid
 graph TD;
-    D[Initiative Gegner]-->E[Ansage der Verteidigungsrichtung];
-	E--zu langsam-->H[Schaden Tami];
+    D[Initiative Gegner]-->E[Ansage der Verteidigungsrichtung];	
 	D-->EE[Spezialattacke Gegner\nSerie vorgeben\nEinfrieren\nFeuerball\nGiftattacke\n...];
 	EE-->F[Serie nachtippen\nGegenzauber\n Gegenaktion];
 	F--erfolgreich-->A[Initiative Tami];
@@ -126,8 +125,10 @@ graph TD;
 	E--2 Sekunden-->GG[Ausweichen];
 	E--2 Sekunden-->GGG[falsche Richtung];
 	G-->I[Auswertung];
+	E--zu langsam-->H[Schaden Tami];
 	GG-->I;
 	I-->H;
+	EE-->H;
 	I-->A;
 	I-->D;
 	H-->D;
