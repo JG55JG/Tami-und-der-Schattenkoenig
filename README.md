@@ -107,6 +107,36 @@ graph TD;
     J-->E;
     J--Gegner besiegt-->K[Belohnung]
 ```
+[![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
+
+&nbsp; 
+
+
+**Angriff des Gegners**
+
+```mermaid
+graph TD;
+    D[Initiative Gegner]-->E[Ansage der Verteidigungsrichtung];
+	E--zu langsam-->H[Schaden Tami];
+	D-->EE[Spezialattacke Gegner\nSerie vorgeben\nEinfrieren\nFeuerball\nGiftattacke\n...];
+	EE-->F[Serie nachtippen\nGegenzauber\n Gegenaktion];
+	F--erfolgreich-->A[Initiative Tami];
+	F--fail-->H;
+	E--2 Sekunden-->G[Parade];
+	E--2 Sekunden-->GG[Ausweichen];
+	E--2 Sekunden-->GGG[falsche Richtung];
+	G-->I[Auswertung];
+	GG-->I;
+	I-->H;
+	I-->A;
+	I-->D;
+	H-->D;
+	H--Tami wurde besiegt-->J[zu Hause aufwachen]
+	
+
+```
+[![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
+
 
 **Initiative:**
 Ist der Geschick/Stärke-Wert des Gegners größer, hat der Gegner am Anfang des Kampfes die Initiative, ansonsten Tami. 
