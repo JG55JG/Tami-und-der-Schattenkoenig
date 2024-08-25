@@ -105,6 +105,7 @@ graph TD;
     II--Parade Gegner-->C;
     II--Treffer-->J[Schaden];
     J-->E;
+    J--Gegner besiegt-->K[Belohnung]
 ```
 
 **Initiative:**
