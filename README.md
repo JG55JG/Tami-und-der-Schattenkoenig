@@ -222,8 +222,9 @@ werden automatisch im Tgaebuch festgehalten und können später nachgehört werd
 
 
 ## Spielstand speichern und Spielstand laden
+Das Speichern und Laden funktioniert jetzt ganz komfortabel über Savegame-Files auf dem Tiptoi. Es gibt 10 mögliche Speicherplätze (0-9), nach dem Tippen auf Speichern oder Laden wird man aufgefordert über die Zahlenfelder ein Savegame auszuwählen. Falls der Spielstand schon vorhanden ist muß man noch mit tippen auf **JA** bestätigen, dass man das Savegame überschreiben will. Im Gegensatz zu vorher kann man jetzt auch in Dungeons speichern.
 
-~~Die Spielzeit der Hauptquest ist (geschätzt) mindestens 5 Stunden. Das ist zu lang für eine einzige Tiptoi Spielsession, darum ist es wichtig den Spielstand speichern zu können. Tippt man auf den 'Speichern' Button wird eine Zahlenreihe angesagt, die man aufschreiben muß. Der komplette Spielfortschritt, inklusive aller gefunden Gegenstände, erlernten zauber u.s.w. ist in der leider sehr langen Reihe (bis zu xx Zeichen) kodiert. Tippt man auf den 'Laden' Button kann man einen Speichercode eingeben. Die ganze Prozedur ist leider etwas mühsam aber wahrscheinlich die einzige Möglichkeit zum Speichern mit dem Tiptoi. ~~
+<del>Die Spielzeit der Hauptquest ist (geschätzt) mindestens 5 Stunden. Das ist zu lang für eine einzige Tiptoi Spielsession, darum ist es wichtig den Spielstand speichern zu können. Tippt man auf den 'Speichern' Button wird eine Zahlenreihe angesagt, die man aufschreiben muß. Der komplette Spielfortschritt, inklusive aller gefunden Gegenstände, erlernten zauber u.s.w. ist in der leider sehr langen Reihe (bis zu xx Zeichen) kodiert. Tippt man auf den 'Laden' Button kann man einen Speichercode eingeben. Die ganze Prozedur ist leider etwas mühsam aber wahrscheinlich die einzige Möglichkeit zum Speichern mit dem Tiptoi. </del>
 
 
     
