@@ -1,3 +1,10 @@
+> [!NOTE]  
+> Laden und Speichern funktioniert jetzt über das Erstellen von Savegames im Speicher des Tiptois. Es ist nicht mehr notwendig eine Zahlenfolge aufzuschreiben und einzutippen :smile: :metal:. Möglich wurde das durch [tt-homebrew](https://github.com/GauiPower/tt-homebrew). 
+
+> [!CAUTION]
+> Bis jetzt nur mit einem Stift der 4. Generation getestet. Nutzung auf eigene Gefahr. Für die alte Speichermethode gibt es einen Legacy-Branch.
+
+&nbsp;
 
 # Tami und der Schattenkönig
 Tami und der Schattenkönig ist ein Rollenspiel für den Tiptoi. Es handelt sich um ein Custom/Fan-Projekt auf Basis des grandiosen [tttools](https://tttool.entropia.de/) ([tip-toi-reveng](https://github.com/entropia/tip-toi-reveng)). Das Spiel kombiniert (hoffentlich) ein echtes Rollenspiel-Erlebnis, wie man es aus Computerspielen kennt, mit der eher analogen und bildschirmfreien Tiptoi-Spielmechanik. Das Geschlecht von Tami ist nicht festgelegt, so dass sich Mädchen und Jungen gleichermaßen mit Tami identifizieren können. Du wirst erfahrener und lernst wie du deine Fähigkeiten verbesseren kannst. Irgendwann kannst du sogar deine eigene Burg mit eigener Schmiede errichten.
@@ -216,13 +223,9 @@ werden automatisch im Tgaebuch festgehalten und können später nachgehört werd
 
 ## Spielstand speichern und Spielstand laden
 
-Die Spielzeit der Hauptquest ist (geschätzt) mindestens 5 Stunden. Das ist zu lang für eine einzige Tiptoi Spielsession, darum ist es wichtig den Spielstand speichern zu können. Tippt man auf den 'Speichern' Button wird eine Zahlenreihe angesagt, die man aufschreiben muß. Der komplette Spielfortschritt, inklusive aller gefunden Gegenstände, erlernten zauber u.s.w. ist in der leider sehr langen Reihe (bis zu xx Zeichen) kodiert. Tippt man auf den 'Laden' Button kann man einen Speichercode eingeben. Die ganze Prozedur ist leider etwas mühsam aber wahrscheinlich die einzige Möglichkeit zum Speichern mit dem Tiptoi.  
+~~Die Spielzeit der Hauptquest ist (geschätzt) mindestens 5 Stunden. Das ist zu lang für eine einzige Tiptoi Spielsession, darum ist es wichtig den Spielstand speichern zu können. Tippt man auf den 'Speichern' Button wird eine Zahlenreihe angesagt, die man aufschreiben muß. Der komplette Spielfortschritt, inklusive aller gefunden Gegenstände, erlernten zauber u.s.w. ist in der leider sehr langen Reihe (bis zu xx Zeichen) kodiert. Tippt man auf den 'Laden' Button kann man einen Speichercode eingeben. Die ganze Prozedur ist leider etwas mühsam aber wahrscheinlich die einzige Möglichkeit zum Speichern mit dem Tiptoi. ~~
 
-<a href="https://youtu.be/4S_qzQhA8Lo">
-  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2F4S_qzQhA8Lo" alt="Spielstand laden" title="Spielstand laden"/>
-</a>
 
-<p align="left" >    Videoerklärung Spielstand speichern und laden    </p>
     
  [![up](https://github.com/JG55JG/Tami-und-der-Schattenkoenig/blob/main/figs/icon_up.png) nach oben](#Tami-und-der-Schattenkönig)
 
